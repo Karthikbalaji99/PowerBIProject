@@ -1,5 +1,5 @@
 # 📊 Amazon Sales Insights — Power BI Storytelling Dashboard  
-*(Dataset Source: [Kaggle – “Amazon Sale Report”](https://www.kaggle.com/))*
+*(Dataset Source: [Kaggle)*
 
 > **Purpose:** Showcase my end-to-end Power BI skill set—data wrangling, modeling, DAX, custom visuals, and data-driven storytelling—by turning raw Amazon product and review data into meaningful, actionable insights.
 
